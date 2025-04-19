@@ -1,0 +1,2 @@
+
+wlan.ta == fc:99:47:be:c0:66 || wlan.ra == fc:99:47:be:c0:66 || wlan_mgt.ssid == vlan41

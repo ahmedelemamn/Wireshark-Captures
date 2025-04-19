@@ -1,0 +1,5 @@
+Four legs:
+1. Anchor WLC to foreign WLC: Copy original IP DSCP to EoIP DSCP
+2. Foreign WLC to foreign AP: Statically set DSCP 0 on CAPWAP DSCP; ignore incoming EoIP DSCP
+3. Foreign AP to foreign WLC: Map 802.11e UP to CAPWAP per AP/WLC specification
+4. Foreign WLC to anchor WLC: Copy original IP DSCP to EoIP DSCP

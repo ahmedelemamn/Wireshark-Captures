@@ -1,0 +1,18 @@
+wlan.ta == 84:b2:61:3f:93:1f || wlan.ra == 84:b2:61:3f:93:1f || wlan.ta == 84:b2:61:24:a2:0f || wlan.ra == 84:b2:61:24:a2:0f
+
+
+Notes:
+Remote AP Gig0 (10.0.40.105)  = 00:d7:8f:86:d2:74
+WLC 2504 VLAN 40 (10.0.40.71) = 64:d8:14:da:6f:ef
+3560 VLAN 40 SVI (10.0.40.10) = 00:23:5d:c9:5a:c6
+
+Root AP radio (10.0.40.103)   = 84:b2:61:24:a2:0f
+
+Mesh AP radio (10.0.40.104)   = 84:b2:61:3f:93:1f
+
+
+
+
+
+
+Decode any .tcr0 files as PEEKREMOTE in Wireshark 1.8 or newer

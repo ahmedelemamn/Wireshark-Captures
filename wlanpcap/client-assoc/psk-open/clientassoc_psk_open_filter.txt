@@ -1,0 +1,1 @@
+wlan.ta == 00:56:cd:ee:f1:71 || wlan.ra == 00:56:cd:ee:f1:71 || wlan_mgt.ssid == vlan41
